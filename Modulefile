@@ -1,0 +1,10 @@
+name 'operations-pe_puppetdb'
+version '0.0.1'
+source 'git://github.com/puppetlabs-operations/pe_puppetdb.git'
+author 'Puppet Labs Operations'
+description 'PuppetDB wrapper modules compatiable with PE 2.8.'
+summary 'PuppetDB wrapper modules compatiable with PE 2.8.'
+license 'Apache'
+project_page 'https://github.com/puppetlabs-operations/pe_puppetdb'
+
+dependency 'puppetlabs/puppetdb', '>= 1.1.x'
