@@ -7,4 +7,4 @@ summary 'PuppetDB wrapper modules compatiable with PE 2.8.'
 license 'Apache'
 project_page 'https://github.com/puppetlabs-operations/pe_puppetdb'
 
-dependency 'puppetlabs/puppetdb', '>= 1.1.x'
+dependency 'puppetlabs/puppetdb', '1.1.x'
