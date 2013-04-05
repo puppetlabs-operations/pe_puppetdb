@@ -4,5 +4,6 @@ class pe_puppetdb {
 
   class { 'puppetdb':
     listen_address => $pe_puppetdb::params::listen_address,
+    ssl_listen_address => $pe_puppetdb::params::ssl_listen_address,
   }
 }

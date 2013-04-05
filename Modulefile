@@ -1,5 +1,5 @@
 name 'operations-pe_puppetdb'
-version '0.0.1'
+version '0.0.2'
 source 'git://github.com/puppetlabs-operations/pe_puppetdb.git'
 author 'Puppet Labs Operations'
 description 'PuppetDB wrapper modules compatiable with PE 2.8.'
