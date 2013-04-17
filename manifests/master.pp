@@ -1,4 +1,4 @@
-class pe_puppetdb::master {
+class pe_puppetdb::master::config {
 
   include pe_puppetdb::params
 
